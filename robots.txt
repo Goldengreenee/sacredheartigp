@@ -1,0 +1,4 @@
+# robots.txt for Sacred Heart Church, Igatpuri
+
+User-agent: *
+Allow: /
